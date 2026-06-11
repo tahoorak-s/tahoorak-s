@@ -105,7 +105,7 @@ Currently exploring:
 
 ---
 
-##Featured Projects
+## Featured Projects
 
 ### Competitor Intelligence Platform
 
